@@ -1,1 +1,1 @@
-Lista de exercício da matéria Fundamentos de Programação de Computadores da USP
+Lista de exercícios da matéria Fundamentos de Programação de Computadores da USP
